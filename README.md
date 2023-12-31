@@ -20,4 +20,4 @@ https://github.com/novellacom/novella/blob/main/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D
 https://www.figma.com/file/YpBt7SaCLpj1gjheLtuout/Untitled?type=design&node-id=0-1&mode=design
 
 #### Игра:
-Готовый проект - это **последний файл**.
+https://drive.google.com/drive/folders/15EAjbdKiAwFsemkZzNHaK51LnwMRL1rd
